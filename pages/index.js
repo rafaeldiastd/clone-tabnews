@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Esse curso é massa demais. Acho que é o primeiro curso que eu faço, que me empolga de verdade.</h1>
+    return <h1>Esse curso é massa demais! E obrigado por me apoiar em tudo que eu escolho fazer. Te amo demais.</h1>
 }
 
 export default Home;
